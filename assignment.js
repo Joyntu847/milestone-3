@@ -49,7 +49,7 @@ let totalBrick = brickCalculator(3);
 console.log(totalBrick)
 */
 
- 
+ /** 
   function tinyFriend(nums){
     var miniNames =nums[0];
     for(i = 0; i < nums.length; i++){
@@ -62,6 +62,7 @@ console.log(totalBrick)
 }
 var friends = tinyFriend(['rajeshchy','ranjanbibek','emu','rahul','pranto']);
 console.log(friends);
+*/
 
 
 
